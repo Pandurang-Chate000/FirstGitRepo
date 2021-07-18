@@ -7,5 +7,5 @@ public class HelloWorldJava
 
 	System.out.println("THis is second line added");
 
-	System.out.println("This line is updated in temp branch of git and should not present in master branch");
+	System.out.println("This change is only in temp branch");
 }
